@@ -1,3 +1,9 @@
+![Screenshot 2024-04-28 174728](https://github.com/mdsa1348/Instragram-with-Laravel/assets/125950301/aaa3e813-b97b-43be-9687-dd4a63808bb6)
+![Screenshot 2024-04-28 174816](https://github.com/mdsa1348/Instragram-with-Laravel/assets/125950301/98b13b96-d508-483d-a889-4e6f36b19bc7)
+![Screenshot 2024-04-28 174754](https://github.com/mdsa1348/Instragram-with-Laravel/assets/125950301/af8fbdf3-5079-40bf-a8e2-a9500ade40da)
+![Screenshot 2024-04-28 174849](https://github.com/mdsa1348/Instragram-with-Laravel/assets/125950301/cb4eb2a9-a2fb-4acb-af87-ecdfa1465052)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
